@@ -1,4 +1,4 @@
-# Number-Recognition
+# Number Recognition
 A simple machine learning model consisting of a Flatten layer, followed by a dense layer with 128 neurons and ReLU activation, another dense layer with 32 neurons and ReLU activation, and finally an output layer with 10 neurons and softmax activation. This model is designed to identify the digits in the MNIST dataset. Below are some results from the model.
 
 ![image](https://github.com/user-attachments/assets/8522db9d-5b6e-4eb7-956f-38078c076fba)
